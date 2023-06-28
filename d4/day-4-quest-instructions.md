@@ -1,3 +1,5 @@
+# Testing & finishing the quest
+
 ## Introduction
 
 Welcome to Day 4! Today's focus is on finishing the game and mastering the art of efficient code with list and dictionary comprehensions. Also, delve into the world of Python testing to ensure your code is error-free. Remember that if you have completed all of the deliverables for the game you may add some additional features as defined in the project brief if you have time.
